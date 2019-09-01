@@ -139,7 +139,7 @@
     "isomorphic-fetch": "^2.2.1",
     "jscodeshift": "^0.3.32",
     "lint-staged": "^6.0.0",
-    "make-fetch-happen": "^2.6.0",
+    "make-fetch-happen": "^5.0.0",
     "mkdirp": "^0.5.1",
     "prettier": "^1.8.2",
     "react": "^16.1.1",
