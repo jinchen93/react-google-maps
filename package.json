@@ -146,7 +146,7 @@
     "react-dom": "^16.1.1",
     "react-icons": "^2.2.7",
     "react-scripts": "^1.0.17",
-    "react-styleguidist": "^6.0.33",
+    "react-styleguidist": "^9.1.16",
     "rimraf": "^2.6.2",
     "standard-version": "^4.2.0",
     "to-markdown": "^3.1.0"
